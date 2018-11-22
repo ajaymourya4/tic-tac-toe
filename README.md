@@ -1,2 +1,3 @@
 # tic-tac-toe
-![screenshot_20181122-211841](https://user-images.githubusercontent.com/33999538/48913116-75e4b880-ee9d-11e8-8508-035c2d7fa22d.png)
+![app screenshot](https://user-images.githubusercontent.com/33999538/48913343-1a66fa80-ee9e-11e8-973a-240e7f6b5915.jpg)
+
